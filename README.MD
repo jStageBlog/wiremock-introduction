@@ -1,6 +1,6 @@
-# Testen von Java-REST-Clients mit Wiremock
+# Testen von Java-REST-Clients mit Mockito und Wiremock
 
-**[Dies ist das Code-Repository für den gleichnamigen Artikel unter http://blog.jstage.de](https://blog.jstage.de/)**
+**[Dies ist das Code-Repository für den gleichnamigen Artikel unter http://blog.jstage.de](https://blog.jstage.de/2015/04/13/testen-von-java-rest-clients-mit-wiremock/)**
 
 ## Import in Eclipse
 1. Git-Projekt klonen
